@@ -7,5 +7,6 @@ namespace TestWebApp
 {
     public class TestClass
     {
+        //This is the test comment 1
     }
 }
